@@ -16,8 +16,8 @@
 		<link rel="stylesheet" type="text/css" href="../../media/css/jquery.dataTables.css">
 		<link rel="stylesheet" type="text/css" href="../resources/syntax/shCore.css">
 		<link rel="stylesheet" type="text/css" href="../resources/demo.css">
-		<style type="text/css" class="init">
-
-		</style>
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Monoton&display=swap" rel="stylesheet">
+		<style type="text/css" class="init"></style>
 
 	</head>

@@ -3,7 +3,7 @@
     include "menu.php"; //Navigation menu
 ?>
 
-    <body>
+    <body> 
     <!-- Header -->
     <header id="header">
         <nav class="left">
